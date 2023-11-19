@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Santhosh Sampath</h1>
 <h3 align="center">A passionate fullstack and devops engineer from Singapore</h3>
-<p align="left">
+<!--<p align="left">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=santhoshtns" alt="santhoshtns"/>
 	</a>
-</p>
+</p>-->
 
 - 🔭 I’m currently working on **C#, .NET, TypeScript, HTML5, DevOps, PowerShell, Azure Cloud, Kubernetes, Docker**
 
@@ -18,7 +18,6 @@
 
 - 💬 Ask me about **C#, .NET, DevOps, PowerShell, Azure Cloud, Kubernetes, Docker**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
