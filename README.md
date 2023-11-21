@@ -14,6 +14,8 @@
 
 - I'm certified Microsoft Azure Developer Associate
 
+- I'm certified Microsoft Solutions Architect
+
 - 🌱 I’m currently working on getting my CKAD cert
 
 - 💬 Ask me about **C#, .NET, DevOps, PowerShell, Azure Cloud, Kubernetes, Docker**
