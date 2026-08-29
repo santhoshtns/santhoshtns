@@ -1,24 +1,19 @@
 <h1 align="center">Hi 👋, I'm Santhosh Sampath</h1>
-<h3 align="center">A passionate fullstack and devops engineer from Singapore</h3>
-<!--<p align="left">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=santhoshtns" alt="santhoshtns"/>
-	</a>
-</p>-->
+<h3 align="center">DevOps & Solutions Architect based in Singapore — 20+ years in software architecture and engineering, the last 7+ specializing in Azure cloud infrastructure, DevSecOps, and enterprise integration</h3>
 
-- 🔭 I’m currently working on **C#, .NET, TypeScript, HTML5, DevOps, PowerShell, Azure Cloud, Kubernetes, Docker**
+- 🔭 I'm currently architecting **DevOps/DevSecOps strategy, CI/CD, and enterprise integrations (SAP + third-party APIs)** for a B2B SaaS platform on Azure
 
-- 👯 I’m looking to collaborate on **open source projects**
+- ☁️ Deep in Azure: **AKS, Bicep/ARM, API Management, Azure Front Door, Databricks**
 
-- I'm certified Microsoft DevOps Expert
+- 👯 I'm looking to collaborate on **open source DevOps / cloud-architecture tooling**
 
-- I'm certified Microsoft Azure Developer Associate
+- 💬 Ask me about **Azure, Kubernetes, DevOps/DevSecOps, .NET, TOGAF, enterprise architecture**
 
-- I'm certified Microsoft Solutions Architect
-
-- 🌱 I’m currently working on getting my CKAD cert
-
-- 💬 Ask me about **C#, .NET, DevOps, PowerShell, Azure Cloud, Kubernetes, Docker**
+**Certifications**
+- TOGAF 9 Certified, The Open Group
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
+- Microsoft Certified: Azure DevOps Engineer Expert
+- Microsoft Certified: Azure Developer Associate
 
 <p align="left">
 </p>
