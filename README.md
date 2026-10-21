@@ -28,7 +28,7 @@ C#, .NET Core, ASP.NET, Python, JavaScript/TypeScript, React · OpenAI, RAG, Azu
 </p>
 
 <p align="left">
-	<img src="https://raw.githubusercontent.com/santhoshtns/santhoshtns/main/assets/tools-also-v2.svg" alt="Also: Power Apps, Power Automate, Dataverse, Power BI, Dynamics 365, Azure DevOps, Bicep/ARM, Helm, OpenAI, SQL Server, REST/OpenAPI" />
+	<img src="https://raw.githubusercontent.com/santhoshtns/santhoshtns/main/assets/tools-also-v3.svg" alt="Also: Power Apps, Power Automate, Dataverse, Power BI, Dynamics 365, Azure DevOps, Bicep/ARM, Helm, OpenAI, SQL Server, REST/OpenAPI" />
 </p>
 
 📍 Singapore · 📧 san.tns@gmail.com
