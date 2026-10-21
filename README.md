@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Santhosh Sampath</h1>
-<h3 align="center">DevOps & Solutions Architect based in Singapore — 20+ years in software architecture and engineering, the last 7+ specializing in Azure cloud infrastructure, DevSecOps, and enterprise integration</h3>
+<h3 align="center">Software engineer and solutions architect based in Singapore — 20+ years building enterprise software on the Microsoft stack, Azure cloud and system integrations</h3>
 
-- 🔭 I'm currently architecting **DevOps/DevSecOps strategy, CI/CD, and enterprise integrations (SAP + third-party APIs)** for a B2B SaaS platform on Azure
+## Work I've delivered
 
-- ☁️ Deep in Azure: **AKS, Bicep/ARM, API Management, Azure Front Door, Databricks**
+- **Custom software development** — C#/.NET Core Web APIs and web applications, Python/Flask services, and React front ends, designed and built to business requirements
+- **AI integrations** — OpenAI (GPT) and Azure AI Document Intelligence, with RAG (Retrieval-Augmented Generation), added to business applications for automated document extraction, AI-assisted comparison and knowledge-base assistants
+- **DevOps and CI/CD pipelines** — build, test and deployment pipelines in Azure DevOps and Jenkins, with Docker, Kubernetes (AKS), Infrastructure-as-Code (Bicep/ARM) and security scanning built in
+- **Business applications on Microsoft Power Platform** — enterprise apps with Power Apps, Dataverse and Power Automate, including custom forms and fields, approval workflows, data migration and system integrations
+- **Dynamics 365 Sales** — customised the Sales application, including lead management and quotation functionality
+- **Enterprise integrations and APIs** — RESTful services on Azure and connections between business systems
+- **Industrial and security software** — RESTful services for a plant-asset-management platform, a legacy WinForms to WPF migration, and web services unifying fire, intrusion, video and access-control systems
 
-- 👯 I'm looking to collaborate on **open source DevOps / cloud-architecture tooling**
+## Technology
 
-- 💬 Ask me about **Azure, Kubernetes, DevOps/DevSecOps, .NET, TOGAF, enterprise architecture**
+C#, .NET Core, ASP.NET, Python, JavaScript/TypeScript, React · OpenAI, RAG, Azure AI Document Intelligence · Azure DevOps, Jenkins, Docker, Kubernetes, Bicep/ARM, DevSecOps · Power Apps, Dataverse, Power Automate, Dynamics 365 · Azure (AKS, App Service, Functions, Logic Apps, API Management) · REST, OAuth/JWT
 
-**Certifications**
+## Certifications
+
 - TOGAF 9 Certified, The Open Group
 - Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
 - Microsoft Certified: Azure DevOps Engineer Expert
@@ -17,5 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=azure,cs,dotnet,ts,js,html,css,docker,kubernetes,git,githubactions,bash,powershell,redis,nginx&theme=dark" alt="Skills" />
+	<img src="https://skillicons.dev/icons?i=azure,cs,dotnet,py,flask,react,ts,js,html,css,docker,kubernetes,git,githubactions,bash,powershell&theme=dark" alt="Skills" />
 </p>
+
+📍 Singapore · 📧 san.tns@gmail.com
