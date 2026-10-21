@@ -27,6 +27,8 @@ C#, .NET Core, ASP.NET, Python, JavaScript/TypeScript, React · OpenAI, RAG, Azu
 	<img src="https://skillicons.dev/icons?i=azure,cs,dotnet,py,flask,react,nodejs,ts,js,html,css,docker,kubernetes,git,github,githubactions,jenkins,postman,bash,powershell,visualstudio&theme=dark" alt="Skills" />
 </p>
 
-<p align="left">Also: Power BI · Dataverse · Power Apps · Power Automate · Dynamics 365 · Python · Azure DevOps · Bicep/ARM · Helm · OpenAI · SQL Server · REST/OpenAPI</p>
+<p align="left">
+	<img src="assets/tools-also.svg" alt="Also: Power Apps, Power Automate, Dataverse, Power BI, Dynamics 365, Azure DevOps, Bicep/ARM, Helm, OpenAI, SQL Server, REST/OpenAPI" />
+</p>
 
 📍 Singapore · 📧 san.tns@gmail.com
